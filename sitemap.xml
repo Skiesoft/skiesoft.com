@@ -7,40 +7,63 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"   
 >
   <url>
-    <loc>https://davidday.tw/</loc>
+    <loc>https://skiesoft.com/</loc>
   </url>
   <url>
-  <loc>https://davidday.tw/en.html</loc>
+  <loc>https://skiesoft.com/en.html</loc>
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://davidday.tw/zh.html" />
+      href="https://skiesoft.com/zh-Hant.html" />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://davidday.tw/en.html" />
+      href="https://skiesoft.com/en.html" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="jp"
+      href="https://skiesoft.com/jp.html" />
   </url>
   <url>
-    <loc>https://davidday.tw/zh.html</loc>
+    <loc>https://skiesoft.com/zh-Hant.html</loc>
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://davidday.tw/zh.html" />
+      href="https://skiesoft.com/zh-Hant.html" />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://davidday.tw/en.html" />
+      href="https://skiesoft.com/en.html" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="jp"
+      href="https://skiesoft.com/jp.html" />
   </url>
   <url>
-    <loc>https://davidday.tw/facehealth</loc>
+    <loc>https://skiesoft.com/zh-jp.html</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://skiesoft.com/zh-Hant.html" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://skiesoft.com/en.html" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="jp"
+      href="https://skiesoft.com/jp.html" />
   </url>
   <url>
-    <loc>https://davidday.tw/self-diagnose</loc>
+    <loc>https://skiesoft.com/facehealth</loc>
   </url>
   <url>
-    <loc>https://davidday.tw/plan-adam</loc>
+    <loc>https://skiesoft.com/self-diagnose</loc>
   </url>
   <url>
-    <loc>https://davidday.tw/react-native-transformers/</loc>
+    <loc>https://skiesoft.com/plan-adam</loc>
+  </url>
+  <url>
+    <loc>https://skiesoft.com/react-native-transformers/</loc>
   </url>
 </urlset>
